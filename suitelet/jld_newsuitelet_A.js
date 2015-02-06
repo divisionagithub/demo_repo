@@ -1,6 +1,0 @@
-function start(req,res)
-{
-
-
-
-}
