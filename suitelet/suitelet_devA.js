@@ -23,7 +23,7 @@ nlapiLogExecution('debug','Log added by developer 2');
 function getRecords()
 {
 
-nlapiLogExecution('debug','getRecords function started');
+nlapiLogExecution('debug','getRecords function started by  Dev B');
 var rec=nlapiSearchRecord('salesorder',null,[new nlobjSearchFilter('mainline',null,'is','T')]);
 
 
