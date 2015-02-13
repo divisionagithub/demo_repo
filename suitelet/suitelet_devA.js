@@ -29,5 +29,4 @@ var rec=nlapiSearchRecord('salesorder');
 
 
 
-
 }
